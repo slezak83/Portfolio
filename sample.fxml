@@ -19,7 +19,7 @@
          <GridPane.margin>
             <Insets left="-60.0" top="350.0" />
          </GridPane.margin></Button>
-      <Label alignment="CENTER" contentDisplay="CENTER" text="Reference Information Search" textFill="#e80a0a">
+      <Label alignment="CENTER" contentDisplay="CENTER" text="Reference Information Search" textFill="#880e10">
          <GridPane.margin>
             <Insets bottom="-315.0" left="-65.0" top="-375.0" />
          </GridPane.margin>
