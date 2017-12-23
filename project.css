@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .root{
     -fx-background-image: url("background.jpg");
+=======
+.root{
+    -fx-background-image: url("background.jpg");
+>>>>>>> f9fbe85a31f4c55a3b5de30a853f2423f47d44cf
     }
